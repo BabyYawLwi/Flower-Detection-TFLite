@@ -1,1 +1,1 @@
-# Flower-Detection-TFLite
+# Flower Classification model TFLite
